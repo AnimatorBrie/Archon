@@ -23,6 +23,7 @@
   - type: ClothingSlowOnDamageModifier
     modifier: 0.5
 
+
 - type: entity
   parent: ClothingShoesBaseButcherable
   id: ClothingShoesBootsSalvage

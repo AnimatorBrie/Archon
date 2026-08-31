@@ -5,7 +5,8 @@
     ClothingBackpack: 5
     ClothingBackpackDuffel: 5
     ClothingBackpackSatchel: 3
-    ClothingBackpackSatchelLeather: 2
+    ClothingBackpackSatchelLeather: 3
+    ClothingBackpackMerc: 3
     ClothingRandomSpawner: 8
     ClothingUniformRandomShorts: 4
     ClothingHeadHatBeret: 4
@@ -56,6 +57,7 @@
     ClothingUniformJumpskirtCasualRed: 2
     ClothingUniformJumpsuitCasualGreen: 2
     ClothingUniformJumpskirtCasualGreen: 2
+    ClothingUniformBlackTurtleneck: 3
     # Begin Nyano Additions
     ClothingUniformJumpsuitTshirtJeans: 2
     ClothingUniformJumpsuitTshirtJeansGray: 2
@@ -142,14 +144,15 @@
     ClothingUniformBrownSuitSkirt: 2
     ClothingShoesLeather: 2
     ClothingShoesBootsLaceup: 2
+    ClothingShoeBootsSurplus: 3
     # End DeltaV additions
-  contrabandInventory:
-    ClothingMaskNeckGaiter: 2
-    ClothingUniformJumpsuitTacticool: 1
-    ClothingUniformJumpskirtTacticool: 1
+    ClothingMaskNeckGaiter: 4
+    ClothingUniformJumpsuitTacticool: 3
+    ClothingUniformJumpskirtTacticool: 3
     ClothingLongcoatArashiLabs: 2 # DeltaV - Longcoats
+    ClothingHeadHatSolidHeadband: 2
+  contrabandInventory:
     ToyFigurinePassenger: 1
     ToyFigurineGreytider: 1
     ClothingBackpackSatchelSmugglerUnanchored: 1
-    ClothingHeadHatSolidHeadband: 2
   # DO NOT ADD MORE, USE UNIFORM DYING

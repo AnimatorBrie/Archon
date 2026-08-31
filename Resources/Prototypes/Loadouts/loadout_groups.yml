@@ -328,6 +328,7 @@
   - BlueTurtleneckDress
   - YellowTurtleneckDress
   - OldYellowDress
+  - MNKOfficeSkirt
   # End DeltaV additions
   - AncientJumpsuit
   - RainbowJumpsuit
@@ -377,6 +378,7 @@
   - CommonBackpack
   - CommonSatchel
   - CommonDuffel
+  - MercBackpack
 
 - type: loadoutGroup
   id: PassengerNeck
@@ -434,7 +436,9 @@
   - BrownCowboyBoots
   - BlackCowboyBoots
   - WhiteCowboyBoots
+  - SurplusBoots
   # End DeltaV additions
+
 
 - type: loadoutGroup
   id: PassengerJobTrinkets
